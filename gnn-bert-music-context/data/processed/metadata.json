@@ -1,0 +1,56 @@
+{
+  "audio_dataset": "gtzan",
+  "text_source": "audio_derived_captions",
+  "num_labels": 10,
+  "label_vocab": [
+    "blues",
+    "classical",
+    "country",
+    "disco",
+    "hiphop",
+    "jazz",
+    "metal",
+    "pop",
+    "reggae",
+    "rock"
+  ],
+  "genres_observed": [
+    "blues",
+    "classical",
+    "country",
+    "disco",
+    "hiphop",
+    "jazz",
+    "metal",
+    "pop",
+    "reggae",
+    "rock"
+  ],
+  "num_tracks": 999,
+  "num_skipped": 1,
+  "splits": {
+    "train": 799,
+    "val": 100,
+    "test": 100
+  },
+  "node_feature_dim": 140,
+  "segment_seconds": 3.0,
+  "segment_hop_seconds": 1.5,
+  "similarity_threshold": 0.5,
+  "max_similarity_neighbors": 3,
+  "graph_stats": {
+    "nodes_mean": 19.01001001001001,
+    "nodes_min": 19,
+    "nodes_max": 20,
+    "edges_mean": 45.0950950950951,
+    "edges_min": 36,
+    "edges_max": 100,
+    "density_mean": 0.13169719427029367,
+    "fraction_complete_graphs": 0.0
+  },
+  "mel_shape_example": [
+    128,
+    323
+  ],
+  "mel_time_pool": 4
+}

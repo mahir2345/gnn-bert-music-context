@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/gnn-bert-music-context/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "notebook.defaultKernel": "gnn-bert-music",
+  "jupyter.kernels.filter": [],
+  "notebook.kernelProviderAssociations": [
+    {
+      "viewType": "jupyter-notebook",
+      "kernelProvider": "ms-toolsai.jupyter-python"
+    }
+  ]
+}

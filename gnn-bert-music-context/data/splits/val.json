@@ -1,0 +1,1902 @@
+[
+  {
+    "track_id": "classical.00054",
+    "text": "A fast, energetic recording at about 129 BPM in C minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on G# major, D# major and C major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00099",
+    "text": "A moderately paced recording at about 108 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D major, G minor and A minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00030",
+    "text": "A moderately paced recording at about 117 BPM in G# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on G# minor, G# major and D# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00055",
+    "text": "A moderately paced recording at about 108 BPM in D# minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D# minor, A# minor and B major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00073",
+    "text": "A moderately paced recording at about 112 BPM in C major, with a bright timbre and a dense stream of note onsets. Its harmony centres on C major, F major and A minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00005",
+    "text": "A fast, energetic recording at about 144 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on E minor, D# major and D major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00074",
+    "text": "A fast, energetic recording at about 161 BPM in F major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A# major, F major and G minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00093",
+    "text": "A fast, energetic recording at about 136 BPM in C minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on C minor, A# minor and F minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00016",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in C minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, G# major and G major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00099",
+    "text": "A moderately paced recording at about 117 BPM in F major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, C minor and D minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00046",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in D minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on D minor, D major and B minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00098",
+    "text": "A moderately paced recording at about 123 BPM in C minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on C minor, G major and C major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00019",
+    "text": "A moderately paced recording at about 112 BPM in D# minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on D# minor, E major and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00074",
+    "text": "A fast, energetic recording at about 172 BPM in B minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on B minor, G major and G# minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00030",
+    "text": "A fast, energetic recording at about 136 BPM in A minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on E major, A minor and G major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00053",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in F minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F minor, D# major and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00022",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in D# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on D# major, D# minor and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00075",
+    "text": "A moderately paced recording at about 117 BPM in C major, with a bright timbre and a dense stream of note onsets. Its harmony centres on C major, A minor and F major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00052",
+    "text": "A fast, energetic recording at about 129 BPM in G# minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on G# minor, C# major and G major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00047",
+    "text": "A fast, energetic recording at about 144 BPM in G major, with a bright timbre and a dense stream of note onsets. Its harmony centres on C major, G major and E minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00039",
+    "text": "A relaxed mid-tempo recording at about 83 BPM in E major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on E major, A major and F# minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00031",
+    "text": "A moderately paced recording at about 112 BPM in G major, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on G major, G minor and F minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00018",
+    "text": "A fast, energetic recording at about 129 BPM in F minor, with a dark, bass-heavy timbre and a steady flow of note onsets. Its harmony centres on G minor, A# major and G# major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00018",
+    "text": "A fast, energetic recording at about 144 BPM in D minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on G# major, A# major and G major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00032",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in G# minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on E major, F# minor and G# minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00097",
+    "text": "A moderately paced recording at about 117 BPM in C# minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F# minor, A major and C major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00039",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in C major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, C minor and C major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00069",
+    "text": "A fast, energetic recording at about 161 BPM in E minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on E minor, E major and D minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00015",
+    "text": "A moderately paced recording at about 123 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on B minor, E minor and A minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00023",
+    "text": "A moderately paced recording at about 112 BPM in D# major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G# major, F minor and G minor, the texture is dominated by percussive attacks, and loudness stays nearly constant across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00096",
+    "text": "A fast, energetic recording at about 136 BPM in A# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A# major, G major and A# minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00064",
+    "text": "A fast, energetic recording at about 152 BPM in F major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, F minor and A# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00031",
+    "text": "A fast, energetic recording at about 161 BPM in C major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C major, E minor and A minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00076",
+    "text": "A fast, energetic recording at about 129 BPM in G minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on D minor, A# major and C major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00010",
+    "text": "A moderately paced recording at about 108 BPM in G# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on A# major, C# minor and D# major, the texture is dominated by percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00000",
+    "text": "A moderately paced recording at about 123 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D major, D minor and C# major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00017",
+    "text": "A moderately paced recording at about 108 BPM in D# minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on D# minor, E major and G# minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00027",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in B minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on E major, B minor and E minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00011",
+    "text": "A fast, energetic recording at about 161 BPM in E major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on E minor, E major and A major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00069",
+    "text": "A moderately paced recording at about 123 BPM in G minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on C major, E minor and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00088",
+    "text": "A moderately paced recording at about 103 BPM in E major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A major, E major and B major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00077",
+    "text": "A moderately paced recording at about 112 BPM in G minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on D major, F# minor and G minor, the texture is dominated by percussive attacks, and loudness swings strongly across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00020",
+    "text": "A moderately paced recording at about 108 BPM in C minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on F minor, D# major and G# major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00048",
+    "text": "A fast, energetic recording at about 129 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on G major, D major and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00051",
+    "text": "A fast, energetic recording at about 129 BPM in G# minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G minor, D major and E major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00004",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in D major, with a bright timbre and a dense stream of note onsets. Its harmony centres on D major, E major and D minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00057",
+    "text": "A moderately paced recording at about 123 BPM in D major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on D minor, B minor and G major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00076",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in A major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A major, D minor and C# minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00094",
+    "text": "A moderately paced recording at about 108 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on E minor, C major and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00080",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in D major, with a bright timbre and a dense stream of note onsets. Its harmony centres on D major, G major and B minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00021",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in C minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on C major, F minor and C minor, the texture is dominated by percussive attacks, and loudness swings strongly across the clip, with noticeable noise and distortion in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00059",
+    "text": "A relaxed mid-tempo recording at about 89 BPM in G# major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on C# minor, C# major and G# major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00088",
+    "text": "A fast, energetic recording at about 172 BPM in D minor, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on A# minor, G minor and F major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00094",
+    "text": "A moderately paced recording at about 112 BPM in C major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C major, G major and F major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00029",
+    "text": "A fast, energetic recording at about 129 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D major, D minor and B minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00007",
+    "text": "A moderately paced recording at about 103 BPM in G# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on G# major, C# major and D# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00029",
+    "text": "A relaxed mid-tempo recording at about 89 BPM in C# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C# major, F minor and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00079",
+    "text": "A moderately paced recording at about 108 BPM in E major, with a bright timbre and a dense stream of note onsets. Its harmony centres on A major, B major and F# minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00068",
+    "text": "A fast, energetic recording at about 161 BPM in F major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F major, C major and A minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00071",
+    "text": "A moderately paced recording at about 123 BPM in C major, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on C minor, C major and F minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00004",
+    "text": "A fast, energetic recording at about 136 BPM in F major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A# minor, A# major and D minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00090",
+    "text": "A fast, energetic recording at about 136 BPM in B major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on E major, B major and C# minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00070",
+    "text": "A fast, energetic recording at about 172 BPM in G minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on G minor, G major and F# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00033",
+    "text": "A moderately paced recording at about 123 BPM in G# major, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on C# major, G# minor and A major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00070",
+    "text": "A moderately paced recording at about 112 BPM in A major, with a bright timbre and a dense stream of note onsets. Its harmony centres on A major, D major and G major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00086",
+    "text": "A moderately paced recording at about 123 BPM in C major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F major, C major and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00067",
+    "text": "A fast, energetic recording at about 161 BPM in C major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C major, D minor and F major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00097",
+    "text": "A moderately paced recording at about 103 BPM in A minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A minor, A major and G major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00084",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in C# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C# major, A# minor and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00071",
+    "text": "A fast, energetic recording at about 144 BPM in F major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C major, F major and G minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00040",
+    "text": "A moderately paced recording at about 108 BPM in A minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on A minor, F major and D minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00088",
+    "text": "A moderately paced recording at about 108 BPM in G# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on G# major, D# major and F major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00013",
+    "text": "A fast, energetic recording at about 144 BPM in F major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, A# minor and A minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00060",
+    "text": "A relaxed mid-tempo recording at about 89 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on A minor, C major and E minor, the texture is dominated by percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00029",
+    "text": "A moderately paced recording at about 123 BPM in A# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, A# major and D# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "blues.00054",
+    "text": "A relaxed mid-tempo recording at about 92 BPM in A major, with a bright timbre and a dense stream of note onsets. Its harmony centres on A major, D minor and D major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "blues",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00051",
+    "text": "A moderately paced recording at about 108 BPM in C minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on F minor, C minor and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "classical.00017",
+    "text": "A moderately paced recording at about 117 BPM in A major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A major, A minor and E major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "classical",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00047",
+    "text": "A moderately paced recording at about 112 BPM in C major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on C major, A# major and G minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00000",
+    "text": "A fast, energetic recording at about 161 BPM in F# minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on B major, F# minor and F# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00093",
+    "text": "A relaxed mid-tempo recording at about 86 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D major, G major and A major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00022",
+    "text": "A fast, energetic recording at about 129 BPM in G# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F minor, D major and G# minor, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00042",
+    "text": "A fast, energetic recording at about 129 BPM in E major, with a bright timbre and a dense stream of note onsets. Its harmony centres on A minor, E major and C# major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00010",
+    "text": "A fast, energetic recording at about 129 BPM in B major, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on E minor, F# minor and D minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00047",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in G minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on D# major, E minor and G minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00008",
+    "text": "A moderately paced recording at about 123 BPM in C# major, with a bright timbre and a dense stream of note onsets. Its harmony centres on C# major, G# minor and F minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00037",
+    "text": "A relaxed mid-tempo recording at about 96 BPM in A# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C# major, D minor and G# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00024",
+    "text": "A moderately paced recording at about 103 BPM in C minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on G# minor, G# major and D# major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "pop.00092",
+    "text": "A moderately paced recording at about 108 BPM in A# minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G minor, F major and A# major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "genre": "pop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "reggae.00039",
+    "text": "A fast, energetic recording at about 152 BPM in F# major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on F# minor, F# major and E major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "genre": "reggae",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "hiphop.00074",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in D major, with a bright timbre and a dense stream of note onsets. Its harmony centres on G minor, D major and G major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "hiphop",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00009",
+    "text": "A moderately paced recording at about 123 BPM in G minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G minor, C major and A major, the texture is dominated by percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00049",
+    "text": "A relaxed mid-tempo recording at about 99 BPM in A minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on A major, C major and D major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with mild noise in the spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00065",
+    "text": "A fast, energetic recording at about 129 BPM in B minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on B minor, G major and D major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "disco.00072",
+    "text": "A fast, energetic recording at about 136 BPM in D major, with a bright timbre and a dense stream of note onsets. Its harmony centres on D major, G major and A major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "disco",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "metal.00034",
+    "text": "A moderately paced recording at about 108 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on E minor, C major and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "genre": "metal",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "country.00070",
+    "text": "A moderately paced recording at about 112 BPM in E major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A major, E major and B major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "country",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "jazz.00016",
+    "text": "A moderately paced recording at about 117 BPM in B major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on B major, E minor and F major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "genre": "jazz",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00090",
+    "text": "A moderately paced recording at about 123 BPM in C major, with a bright timbre and a dense stream of note onsets. Its harmony centres on F major, C major and G minor, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  },
+  {
+    "track_id": "rock.00009",
+    "text": "A fast, energetic recording at about 152 BPM in C major, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on F minor, F major and E minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "genre": "rock",
+    "valence": null,
+    "arousal": null
+  }
+]

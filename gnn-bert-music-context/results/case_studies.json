@@ -1,0 +1,59 @@
+[
+  {
+    "track_id": "pop.00002",
+    "caption": "A fast, energetic recording at about 129 BPM in D minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G minor, F major and D minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "true_genre": "pop",
+    "top3_predictions": [
+      {
+        "genre": "pop",
+        "prob": 0.9693924188613892
+      },
+      {
+        "genre": "reggae",
+        "prob": 0.0158377792686224
+      },
+      {
+        "genre": "disco",
+        "prob": 0.008891968987882137
+      }
+    ]
+  },
+  {
+    "track_id": "metal.00062",
+    "caption": "A moderately paced recording at about 117 BPM in A minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on A minor, G major and D major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "true_genre": "metal",
+    "top3_predictions": [
+      {
+        "genre": "metal",
+        "prob": 0.9352229833602905
+      },
+      {
+        "genre": "rock",
+        "prob": 0.4806765615940094
+      },
+      {
+        "genre": "disco",
+        "prob": 0.06797811388969421
+      }
+    ]
+  },
+  {
+    "track_id": "rock.00010",
+    "caption": "A fast, energetic recording at about 161 BPM in D major, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on D major, G major and A major, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "true_genre": "rock",
+    "top3_predictions": [
+      {
+        "genre": "country",
+        "prob": 0.665887713432312
+      },
+      {
+        "genre": "rock",
+        "prob": 0.38402506709098816
+      },
+      {
+        "genre": "blues",
+        "prob": 0.11924946308135986
+      }
+    ]
+  }
+]

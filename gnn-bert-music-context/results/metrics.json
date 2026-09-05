@@ -1,0 +1,80 @@
+{
+  "task1_bert_only": {
+    "threshold_0.5": {
+      "macro_f1": 0.0,
+      "micro_f1": 0.0,
+      "macro_auc_pr": 0.13859310842482087
+    },
+    "tuned_threshold": 0.1,
+    "at_tuned_threshold": {
+      "macro_f1": 0.1960793392588262,
+      "micro_f1": 0.1941112322791712,
+      "macro_auc_pr": 0.13859310842482087
+    }
+  },
+  "task2_gnn_only": {
+    "threshold_0.5": {
+      "macro_f1": 0.3622274526299294,
+      "micro_f1": 0.40268456375838924,
+      "macro_auc_pr": 0.5585049413827188
+    },
+    "tuned_threshold": 0.20000000000000004,
+    "at_tuned_threshold": {
+      "macro_f1": 0.4620614007570529,
+      "micro_f1": 0.4444444444444444,
+      "macro_auc_pr": 0.5585049413827188
+    }
+  },
+  "task3_fusion_cross_attention": {
+    "threshold_0.5": {
+      "macro_f1": 0.38100370218017277,
+      "micro_f1": 0.42953020134228187,
+      "macro_auc_pr": 0.5758028683638788
+    },
+    "tuned_threshold": 0.20000000000000004,
+    "at_tuned_threshold": {
+      "macro_f1": 0.505189798505588,
+      "micro_f1": 0.47843137254901963,
+      "macro_auc_pr": 0.5758028683638788
+    }
+  },
+  "task3_fusion_concat": {
+    "threshold_0.5": {
+      "macro_f1": 0.20068181818181818,
+      "micro_f1": 0.28346456692913385,
+      "macro_auc_pr": 0.39873654486354176
+    },
+    "tuned_threshold": 0.15000000000000002,
+    "at_tuned_threshold": {
+      "macro_f1": 0.342417399473167,
+      "micro_f1": 0.34285714285714286,
+      "macro_auc_pr": 0.39873654486354176
+    }
+  },
+  "task4_contrastive_retrieval": {
+    "audio_to_caption_R@1": 0.12999999523162842,
+    "audio_to_caption_R@5": 0.3799999952316284,
+    "audio_to_caption_R@10": 0.5799999833106995,
+    "caption_to_audio_R@1": 0.03999999910593033,
+    "caption_to_audio_R@5": 0.30000001192092896,
+    "caption_to_audio_R@10": 0.550000011920929
+  },
+  "B1_random_marginal": {
+    "macro_f1": 0.0,
+    "micro_f1": 0.0,
+    "macro_auc_pr": 0.1
+  },
+  "B2_cnn_melspec": {
+    "threshold_0.5": {
+      "macro_f1": 0.17174218969884603,
+      "micro_f1": 0.2542372881355932,
+      "macro_auc_pr": 0.5053909661833225
+    },
+    "tuned_threshold": 0.15000000000000002,
+    "at_tuned_threshold": {
+      "macro_f1": 0.5112668954612689,
+      "micro_f1": 0.4930555555555556,
+      "macro_auc_pr": 0.5053909661833225
+    }
+  }
+}

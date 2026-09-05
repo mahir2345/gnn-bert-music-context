@@ -1,0 +1,37 @@
+# Data (never commit raw/processed audio or model caches)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Models / checkpoints
+*.ckpt
+*.pth
+checkpoints/
+
+# Logs
+runs/
+*.log
+tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+# Keep committed sample graphs + dataset metadata (spec: >=20 example graphs)
+!data/processed/graph_samples/
+!data/processed/metadata.json

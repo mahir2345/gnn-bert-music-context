@@ -1,0 +1,282 @@
+[
+  {
+    "query_caption": "A fast, energetic recording at about 152 BPM in B minor, with a dark, bass-heavy timbre and a dense stream of note onsets. Its harmony centres on B minor, G major and A# major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "blues.00014",
+    "query_genre": "blues",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "classical.00063",
+        "genre": "classical",
+        "similarity": 0.41680145263671875,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "blues.00013",
+        "genre": "blues",
+        "similarity": 0.3912985324859619,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "classical.00082",
+        "genre": "classical",
+        "similarity": 0.36416661739349365,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A moderately paced recording at about 103 BPM in E minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on E minor, G# major and C minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "hiphop.00009",
+    "query_genre": "hiphop",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "classical.00099",
+        "genre": "classical",
+        "similarity": 0.3527296185493469,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "rock.00080",
+        "genre": "rock",
+        "similarity": 0.3518909215927124,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "disco.00061",
+        "genre": "disco",
+        "similarity": 0.3105252683162689,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A relaxed mid-tempo recording at about 92 BPM in C minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on C minor, D# major and G major, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "query_track_id": "pop.00019",
+    "query_genre": "pop",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "pop.00060",
+        "genre": "pop",
+        "similarity": 0.4964376389980316,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "hiphop.00071",
+        "genre": "hiphop",
+        "similarity": 0.495566725730896,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "pop.00027",
+        "genre": "pop",
+        "similarity": 0.43880292773246765,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A fast, energetic recording at about 152 BPM in A minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on A major, A minor and C major, the texture balances sustained harmony with percussive attacks, and loudness swings strongly across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "reggae.00037",
+    "query_genre": "reggae",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "blues.00031",
+        "genre": "blues",
+        "similarity": 0.36958831548690796,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "classical.00027",
+        "genre": "classical",
+        "similarity": 0.35917192697525024,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "classical.00083",
+        "genre": "classical",
+        "similarity": 0.3590395152568817,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A moderately paced recording at about 117 BPM in G minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C minor, C major and G minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "jazz.00015",
+    "query_genre": "jazz",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "rock.00026",
+        "genre": "rock",
+        "similarity": 0.36289799213409424,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "jazz.00015",
+        "genre": "jazz",
+        "similarity": 0.3299368619918823,
+        "is_correct_pair": true
+      },
+      {
+        "rank": 3,
+        "track_id": "disco.00064",
+        "genre": "disco",
+        "similarity": 0.32849133014678955,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A moderately paced recording at about 112 BPM in C minor, with a bright timbre and a dense stream of note onsets. Its harmony centres on C minor, G minor and F minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "jazz.00093",
+    "query_genre": "jazz",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "rock.00026",
+        "genre": "rock",
+        "similarity": 0.36911097168922424,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "disco.00064",
+        "genre": "disco",
+        "similarity": 0.32498282194137573,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "classical.00099",
+        "genre": "classical",
+        "similarity": 0.32417407631874084,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A fast, energetic recording at about 144 BPM in C major, with a bright timbre and a dense stream of note onsets. Its harmony centres on G major, F major and D minor, the texture balances sustained harmony with percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "query_track_id": "reggae.00091",
+    "query_genre": "reggae",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "hiphop.00054",
+        "genre": "hiphop",
+        "similarity": 0.3921954035758972,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "pop.00060",
+        "genre": "pop",
+        "similarity": 0.3778446316719055,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "pop.00085",
+        "genre": "pop",
+        "similarity": 0.35724711418151855,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A fast, energetic recording at about 129 BPM in A minor, with a warm, rounded timbre and a dense stream of note onsets. Its harmony centres on C major, E major and F major, the texture balances sustained harmony with percussive attacks, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "metal.00030",
+    "query_genre": "metal",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "rock.00078",
+        "genre": "rock",
+        "similarity": 0.26229360699653625,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "blues.00031",
+        "genre": "blues",
+        "similarity": 0.24682140350341797,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "classical.00099",
+        "genre": "classical",
+        "similarity": 0.23786990344524384,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A moderately paced recording at about 117 BPM in G minor, with a warm, rounded timbre and a steady flow of note onsets. Its harmony centres on C minor, F# minor and G major, the texture leans on sustained harmonic tones, and loudness stays nearly constant across the clip, with a clean, tonal spectrum.",
+    "query_track_id": "classical.00099",
+    "query_genre": "classical",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "rock.00080",
+        "genre": "rock",
+        "similarity": 0.3472348153591156,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "classical.00099",
+        "genre": "classical",
+        "similarity": 0.32205626368522644,
+        "is_correct_pair": true
+      },
+      {
+        "rank": 3,
+        "track_id": "metal.00009",
+        "genre": "metal",
+        "similarity": 0.3129904866218567,
+        "is_correct_pair": false
+      }
+    ]
+  },
+  {
+    "query_caption": "A fast, energetic recording at about 129 BPM in D minor, with a very bright, treble-heavy timbre and a dense stream of note onsets. Its harmony centres on G minor, F major and D minor, the texture is dominated by percussive attacks, and loudness varies moderately across the clip, with mild noise in the spectrum.",
+    "query_track_id": "pop.00002",
+    "query_genre": "pop",
+    "top3_retrieved": [
+      {
+        "rank": 1,
+        "track_id": "pop.00060",
+        "genre": "pop",
+        "similarity": 0.5157585144042969,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 2,
+        "track_id": "hiphop.00071",
+        "genre": "hiphop",
+        "similarity": 0.47980600595474243,
+        "is_correct_pair": false
+      },
+      {
+        "rank": 3,
+        "track_id": "jazz.00086",
+        "genre": "jazz",
+        "similarity": 0.47211939096450806,
+        "is_correct_pair": false
+      }
+    ]
+  }
+]

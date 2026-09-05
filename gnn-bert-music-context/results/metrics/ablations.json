@@ -1,0 +1,26 @@
+{
+  "bert_only (Task 1)": {
+    "best_epoch": 5,
+    "val_macro_f1": 0.19631861541030718,
+    "val_micro_f1": 0.1946524064171123,
+    "val_macro_auc_pr": 0.1622262202272154
+  },
+  "gnn_only (Task 2)": {
+    "best_epoch": 30,
+    "val_macro_f1": 0.49842755977959347,
+    "val_micro_f1": 0.4980237154150198,
+    "val_macro_auc_pr": 0.5420679276510624
+  },
+  "early_concat_fusion": {
+    "best_epoch": 11,
+    "val_macro_f1": 0.41679312953931813,
+    "val_micro_f1": 0.41924398625429554,
+    "val_macro_auc_pr": 0.4638774139156399
+  },
+  "cross_attention_fusion (Task 3)": {
+    "best_epoch": 28,
+    "val_macro_f1": 0.5780005208205179,
+    "val_micro_f1": 0.5702127659574469,
+    "val_macro_auc_pr": 0.5870622092361172
+  }
+}
