@@ -6,12 +6,12 @@ A hybrid **BERT + Graph Neural Network** system for music context understanding 
 **GTZAN** (999 tracks, 10 genres). All four tasks from the assignment spec are
 implemented and trained end-to-end:
 
-| Task | Model | Entry point |
-|---|---|---|
-| 1 (Easy) | BERT multi-label tag classifier | `python src/train.py --task 1` |
-| 2 (Medium) | GraphSAGE on segment-similarity graphs | `python src/train.py --task 2` |
-| 3 (Hard) | GNN-BERT cross-attention fusion (+ concat ablation) | `python src/train.py --task 3`, `python src/ablations.py` |
-| 4 (Advanced) | Contrastive dual-encoder, caption↔audio retrieval | `python src/train.py --task 4` |
+| Model | Entry point |
+|---|---|
+| BERT multi-label tag classifier | `python src/train.py --task 1` |
+| GraphSAGE on segment-similarity graphs | `python src/train.py --task 2` |
+| GNN-BERT cross-attention fusion (+ concat ablation) | `python src/train.py --task 3`, `python src/ablations.py` |
+| Contrastive dual-encoder, caption↔audio retrieval | `python src/train.py --task 4` |
 
 Baselines (spec Section 8): **B1** random/marginal predictor and **B2** CNN on
 mel-spectrograms (`python src/baselines.py`), plus BERT-only (Task 1) and GNN-only
