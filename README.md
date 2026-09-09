@@ -1,7 +1,5 @@
 # GNN-BERT Music Context Understanding
 
-CSE425 / EEE474 / CSE715 — Neural Networks (deadline: 2 October 2026)
-
 A hybrid **BERT + Graph Neural Network** system for music context understanding on
 **GTZAN** (999 tracks, 10 genres). All four tasks from the assignment spec are
 implemented and trained end-to-end:
